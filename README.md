@@ -1,3 +1,5 @@
+# Creative Project 1: Survivor Challenge
+
 **Assignment Spec:**
 Background
 The popular TV show Survivor, like many other competition or "reality" shows, often puts its contestants through challenges consisting of a series of tasks that must be completed to earn a prize or reward. The challenges can take many different forms and require a wide range of skills. In this assignment, you will implement several classes to represent different types of tasks for a simulation of these types of challenges.
